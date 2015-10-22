@@ -1,0 +1,25 @@
+{
+  "name": "allan",
+  "version": "1.0.0",
+  "description": "peticion sevicios rest",
+  "main": "index.js",
+  "dependencies": {
+    "init": "^0.1.2",
+    "mysql": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asveloza"
+  },
+  "keywords": [
+    "rest",
+    "todolist",
+    "udec"
+  ],
+  "author": "Allan Veloza Rodriguez",
+  "license": "ISC"
+}
